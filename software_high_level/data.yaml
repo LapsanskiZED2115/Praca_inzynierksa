@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Tree']
+
+roboflow:
+  workspace: qew-ytl9b
+  project: yolov8tree-hiscd
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/qew-ytl9b/yolov8tree-hiscd/dataset/1

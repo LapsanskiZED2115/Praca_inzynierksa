@@ -1,0 +1,6 @@
+train: "C:/Users/kamil/Desktop/prac in\u017C/podejscie_2_ai_modele/wyniki testu/images/test"
+val: "C:/Users/kamil/Desktop/prac in\u017C/podejscie_2_ai_modele/wyniki testu/images/test"
+test: "C:/Users/kamil/Desktop/prac in\u017C/podejscie_2_ai_modele/wyniki testu/images/test"
+nc: 1
+names:
+- tree
